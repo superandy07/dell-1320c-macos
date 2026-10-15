@@ -1,0 +1,7 @@
+build/
+test/out/
+data/json/
+*.ras
+*.hbpl
+*.pam
+.DS_Store
